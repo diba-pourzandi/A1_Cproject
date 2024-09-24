@@ -1,0 +1,297 @@
+(base) dibapourzandi@Dibas-MBP A1 % g++ -std=c++11 main.cpp Word.cpp WordList.cpp WordCat.cpp  WordCatVec.cpp -o output 
+(base) dibapourzandi@Dibas-MBP A1 % ./output 
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 1
+No categories available.
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 8
+Enter the name of the file to load: A1_input.txt
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 9
+Invalid choice. Please try again.
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 1
+Category: Clothes and Accessories
+Listing all words in that category: 
+T-shirt backpack bag belt blouse boot bracelet button cap chain clothes coat collar costume cotton dress earring fashion fasten fit(v) fold(v) glasses glove go(with/together) handbag handkerchief hat jacket jeans jewellery/jewelry jumper kit knit label laundry leather make-up match(v) material necklace old-fashioned(adj) pants pattern perfume plastic pocket pullover purse put on raincoat ring sandal scarf shirt shoe shorts silk size skirt sleeve(less) socks stripe suit sunglasses sweater sweatshirt sweatshirt swimming swimsuit take off tie tights tracksuit trainers trousers try on umbrella underpants underwear undress uniform wallet watch wear(out) wool(len) 
+
+Category: Colours
+Listing all words in that category: 
+(dark/light/pale) apricot aquamarine bittersweet black black blue blue blueGreen blueViolet brickRed brown brown burntOrange cadetBlue carnationPink cerulean cornflowerBlue cyan dandelion darkOrchid emerald forestGreen fuchsia gold golden goldenrod gray green green greenYellow grey jungleGreen lavender limeGreen magenta mahogany maroon melon midnightBlue mulberry navyBlue oliveGreen orange orange orangeRed orchid peach periwinkle pineGreen pink plum processBlue purple purple rawSienna red red redOrange redViolet rhodamine royalBlue royalPurple rubineRed salmon seaGreen sepia silver skyBlue springGreen tan tealBlue thistle turquoise violet violetRed white white wildStrawberry yellow yellow yellowGreen yellowOrange 
+
+Category: Communications and Technology
+Listing all words in that category: 
+(computer) CD (player) CD-Rom DVD (player) IT MP3 PC access address at!@ blog blogger by post call(v) callback camera chat chat click(v) computer connect connection delete dial dial digital digital disc/disk dot download(n&v) drag electronic(s) email engaged enter envelope equipment fax file hang hardware headline homepage install internet invent invention keyboard laptop machine mat message mobile mouse mouse net online operator parcelcalculator password phone phone photograph photography player postcard print printer program(me) reply ring ring up room screen server software switch off switch on talk telephone text text message turn off turn on up up upload video clip volume web web page webcam website 
+
+Category: Education
+Listing all words in that category: 
+IT absent advanced arithmetic art beginner bell biology blackboard board board book bookshelf break up break(time) certificate chemistry class classroom clever coach college composition course curriculum degree desk dictionary diploma drama economics elementary essay geography handwriting history homework information instructions instructor intermediate know laboratory (lab) language learn lesson level library mark math(s) mathematics music nature note notice pencil case photography physics practice(n) practise(v) primary project pupil qualification read register remember rubber ruler school school school science secondary student studies studies study(v) subject teach teacher technology term test university 
+
+Category: Entertainment and Media
+Listing all words in that category: 
+CD (player) CO-Rom MP3 act (v) action actor actress ad admission adventure advert advertisement art article audience ballet band board book camera card cartoon celebrity DVD (player)  channel chat chess cinema circus classical comedy comic competition concert dance dancer disc disc jockey disco display documentary drama draw drawing entrance exhibition exit festival film film film fireworks folk fun game go out group guitar guitarist headline hero heroine hip hit hop horror instrument interval interview(er) jazz journalist keyboard laugh listen to look at magazine magic maker museum music music music music music musician news newspaper opera orchestra paint painter perform performance performer play player poem pop programme quiz recording review rock music romantic row scene show soap opera song stage star talk show television 
+
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 2
+Enter the name of the new category (or 'exit' to stop): fruit
+Enter the name of the new category (or 'exit' to stop): sport
+Enter the name of the new category (or 'exit' to stop): exit
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 1
+Category: Clothes and Accessories
+Listing all words in that category: 
+T-shirt backpack bag belt blouse boot bracelet button cap chain clothes coat collar costume cotton dress earring fashion fasten fit(v) fold(v) glasses glove go(with/together) handbag handkerchief hat jacket jeans jewellery/jewelry jumper kit knit label laundry leather make-up match(v) material necklace old-fashioned(adj) pants pattern perfume plastic pocket pullover purse put on raincoat ring sandal scarf shirt shoe shorts silk size skirt sleeve(less) socks stripe suit sunglasses sweater sweatshirt sweatshirt swimming swimsuit take off tie tights tracksuit trainers trousers try on umbrella underpants underwear undress uniform wallet watch wear(out) wool(len) 
+
+Category: Colours
+Listing all words in that category: 
+(dark/light/pale) apricot aquamarine bittersweet black black blue blue blueGreen blueViolet brickRed brown brown burntOrange cadetBlue carnationPink cerulean cornflowerBlue cyan dandelion darkOrchid emerald forestGreen fuchsia gold golden goldenrod gray green green greenYellow grey jungleGreen lavender limeGreen magenta mahogany maroon melon midnightBlue mulberry navyBlue oliveGreen orange orange orangeRed orchid peach periwinkle pineGreen pink plum processBlue purple purple rawSienna red red redOrange redViolet rhodamine royalBlue royalPurple rubineRed salmon seaGreen sepia silver skyBlue springGreen tan tealBlue thistle turquoise violet violetRed white white wildStrawberry yellow yellow yellowGreen yellowOrange 
+
+Category: Communications and Technology
+Listing all words in that category: 
+(computer) CD (player) CD-Rom DVD (player) IT MP3 PC access address at!@ blog blogger by post call(v) callback camera chat chat click(v) computer connect connection delete dial dial digital digital disc/disk dot download(n&v) drag electronic(s) email engaged enter envelope equipment fax file hang hardware headline homepage install internet invent invention keyboard laptop machine mat message mobile mouse mouse net online operator parcelcalculator password phone phone photograph photography player postcard print printer program(me) reply ring ring up room screen server software switch off switch on talk telephone text text message turn off turn on up up upload video clip volume web web page webcam website 
+
+Category: Education
+Listing all words in that category: 
+IT absent advanced arithmetic art beginner bell biology blackboard board board book bookshelf break up break(time) certificate chemistry class classroom clever coach college composition course curriculum degree desk dictionary diploma drama economics elementary essay geography handwriting history homework information instructions instructor intermediate know laboratory (lab) language learn lesson level library mark math(s) mathematics music nature note notice pencil case photography physics practice(n) practise(v) primary project pupil qualification read register remember rubber ruler school school school science secondary student studies studies study(v) subject teach teacher technology term test university 
+
+Category: Entertainment and Media
+Listing all words in that category: 
+CD (player) CO-Rom MP3 act (v) action actor actress ad admission adventure advert advertisement art article audience ballet band board book camera card cartoon celebrity DVD (player)  channel chat chess cinema circus classical comedy comic competition concert dance dancer disc disc jockey disco display documentary drama draw drawing entrance exhibition exit festival film film film fireworks folk fun game go out group guitar guitarist headline hero heroine hip hit hop horror instrument interval interview(er) jazz journalist keyboard laugh listen to look at magazine magic maker museum music music music music music musician news newspaper opera orchestra paint painter perform performance performer play player poem pop programme quiz recording review rock music romantic row scene show soap opera song stage star talk show television 
+
+Category: fruit
+Listing all words in that category: 
+
+
+Category: sport
+Listing all words in that category: 
+
+
+Category: exit
+Listing all words in that category: 
+
+
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 5
+Enter the name of the category to modify: fruit
+===========================
+Word Category: fruit
+===========================
+1. Print all the words in this category
+2. Insert a new word into this category
+3. Remove a given word from this category
+4. Empty this category
+5. Modify the category name
+6. Search for a specific word in this category
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+===========================
+Enter Your Choice: 1
+===========================
+Word Category: fruit
+===========================
+1. Print all the words in this category
+2. Insert a new word into this category
+3. Remove a given word from this category
+4. Empty this category
+5. Modify the category name
+6. Search for a specific word in this category
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+===========================
+Enter Your Choice: 2
+Enter a word: banana
+Enter a word: apple
+Enter a word: grapes
+Enter a word: exit
+===========================
+Word Category: fruit
+===========================
+1. Print all the words in this category
+2. Insert a new word into this category
+3. Remove a given word from this category
+4. Empty this category
+5. Modify the category name
+6. Search for a specific word in this category
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+===========================
+Enter Your Choice: 1
+apple banana exit grapes ===========================
+Word Category: fruit
+===========================
+1. Print all the words in this category
+2. Insert a new word into this category
+3. Remove a given word from this category
+4. Empty this category
+5. Modify the category name
+6. Search for a specific word in this category
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+===========================
+Enter Your Choice: 7
+Enter the starting letter: a   
+apple 
+===========================
+Word Category: fruit
+===========================
+1. Print all the words in this category
+2. Insert a new word into this category
+3. Remove a given word from this category
+4. Empty this category
+5. Modify the category name
+6. Search for a specific word in this category
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+===========================
+Enter Your Choice: 0
+bye.
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 1
+Category: Clothes and Accessories
+Listing all words in that category: 
+T-shirt backpack bag belt blouse boot bracelet button cap chain clothes coat collar costume cotton dress earring fashion fasten fit(v) fold(v) glasses glove go(with/together) handbag handkerchief hat jacket jeans jewellery/jewelry jumper kit knit label laundry leather make-up match(v) material necklace old-fashioned(adj) pants pattern perfume plastic pocket pullover purse put on raincoat ring sandal scarf shirt shoe shorts silk size skirt sleeve(less) socks stripe suit sunglasses sweater sweatshirt sweatshirt swimming swimsuit take off tie tights tracksuit trainers trousers try on umbrella underpants underwear undress uniform wallet watch wear(out) wool(len) 
+
+Category: Colours
+Listing all words in that category: 
+(dark/light/pale) apricot aquamarine bittersweet black black blue blue blueGreen blueViolet brickRed brown brown burntOrange cadetBlue carnationPink cerulean cornflowerBlue cyan dandelion darkOrchid emerald forestGreen fuchsia gold golden goldenrod gray green green greenYellow grey jungleGreen lavender limeGreen magenta mahogany maroon melon midnightBlue mulberry navyBlue oliveGreen orange orange orangeRed orchid peach periwinkle pineGreen pink plum processBlue purple purple rawSienna red red redOrange redViolet rhodamine royalBlue royalPurple rubineRed salmon seaGreen sepia silver skyBlue springGreen tan tealBlue thistle turquoise violet violetRed white white wildStrawberry yellow yellow yellowGreen yellowOrange 
+
+Category: Communications and Technology
+Listing all words in that category: 
+(computer) CD (player) CD-Rom DVD (player) IT MP3 PC access address at!@ blog blogger by post call(v) callback camera chat chat click(v) computer connect connection delete dial dial digital digital disc/disk dot download(n&v) drag electronic(s) email engaged enter envelope equipment fax file hang hardware headline homepage install internet invent invention keyboard laptop machine mat message mobile mouse mouse net online operator parcelcalculator password phone phone photograph photography player postcard print printer program(me) reply ring ring up room screen server software switch off switch on talk telephone text text message turn off turn on up up upload video clip volume web web page webcam website 
+
+Category: Education
+Listing all words in that category: 
+IT absent advanced arithmetic art beginner bell biology blackboard board board book bookshelf break up break(time) certificate chemistry class classroom clever coach college composition course curriculum degree desk dictionary diploma drama economics elementary essay geography handwriting history homework information instructions instructor intermediate know laboratory (lab) language learn lesson level library mark math(s) mathematics music nature note notice pencil case photography physics practice(n) practise(v) primary project pupil qualification read register remember rubber ruler school school school science secondary student studies studies study(v) subject teach teacher technology term test university 
+
+Category: Entertainment and Media
+Listing all words in that category: 
+CD (player) CO-Rom MP3 act (v) action actor actress ad admission adventure advert advertisement art article audience ballet band board book camera card cartoon celebrity DVD (player)  channel chat chess cinema circus classical comedy comic competition concert dance dancer disc disc jockey disco display documentary drama draw drawing entrance exhibition exit festival film film film fireworks folk fun game go out group guitar guitarist headline hero heroine hip hit hop horror instrument interval interview(er) jazz journalist keyboard laugh listen to look at magazine magic maker museum music music music music music musician news newspaper opera orchestra paint painter perform performance performer play player poem pop programme quiz recording review rock music romantic row scene show soap opera song stage star talk show television 
+
+Category: fruit
+Listing all words in that category: 
+apple banana exit grapes 
+
+Category: sport
+Listing all words in that category: 
+
+
+Category: exit
+Listing all words in that category: 
+
+
+============================
+Word Vocabulary Center
+============================
+1. Print all categories
+2. Add a new category
+3. Remove a category
+4. Clear a category
+5. Modify a category
+6. Search all categories for a specific word
+7. Show all the words starting with a given letter
+8. Load from a text file
+0. Exit
+============================
+Enter Your Choice: 0
+Goodbye!
